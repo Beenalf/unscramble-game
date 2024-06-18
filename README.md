@@ -3,7 +3,8 @@ A text-based unscramble game played in the terminal
 
 ~~~ Coming Soon! ~~~
 
-This game was created as an assignment for the CSSE2310 class at UQ. The files in the 'lib' and 'include' folders were provided by course staff.
+This game was created as an assignment for the CSSE2310 class at UQ. The files in the 'lib' and 'include' folders were provided by
+course staff. SVN was used for version control.
 In this game, the user is provided with a series of letters and must enter words into the command line. If the user's word can be
 formed from the given letters, is greater than or equal to the minimum length requirement, is a valid word in the dictionary, and
 has not been guessed already, then the user's score is increased by the length of the word.
